@@ -6,3 +6,4 @@ files:
 - directions.txt gives the directions.
 - more files coming
 - this is a test
+- more edits
